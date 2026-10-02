@@ -1,0 +1,24 @@
+{
+  "vendors": [
+    {"name": "Acme Office Supplies Inc.", "bank_account": "PK36SCBL0000001123456702", "email": "billing@acme-office.example"},
+    {"name": "CloudNine Hosting LLC", "bank_account": "PK12MEZN0001230456789012", "email": "ar@cloudnine.example"},
+    {"name": "Bright Print Co.", "bank_account": "PK55HABB0000123456789001", "email": "accounts@brightprint.example"}
+  ],
+  "purchase_orders": [
+    {"po_number": "PO-1001", "vendor_name": "Acme Office Supplies Inc.", "currency": "USD",
+     "lines": [
+       {"description": "Printer paper A4 (box)", "quantity": 10, "unit_price": 25.00},
+       {"description": "Toner cartridge", "quantity": 2, "unit_price": 80.00}
+     ]},
+    {"po_number": "PO-1002", "vendor_name": "CloudNine Hosting LLC", "currency": "USD",
+     "lines": [
+       {"description": "Dedicated server - annual", "quantity": 1, "unit_price": 4800.00},
+       {"description": "Managed backup - annual", "quantity": 1, "unit_price": 900.00}
+     ]},
+    {"po_number": "PO-1003", "vendor_name": "Bright Print Co.", "currency": "USD",
+     "lines": [
+       {"description": "Business cards (box of 500)", "quantity": 4, "unit_price": 30.00},
+       {"description": "Roll-up banner", "quantity": 2, "unit_price": 120.00}
+     ]}
+  ]
+}

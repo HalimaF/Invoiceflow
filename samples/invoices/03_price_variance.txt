@@ -1,0 +1,16 @@
+INVOICE
+Vendor: Bright Print Co.
+Invoice No: BP-7781
+Date: 2026-09-22
+Due: 2026-10-22
+PO: PO-1003
+Currency: USD
+Bank: PK55HABB0000123456789001
+
+Description | Qty | Unit Price | Amount
+Business cards (box of 500) | 4 | 36.00 | 144.00
+Roll-up banner | 2 | 120.00 | 240.00
+
+Subtotal: 384.00
+Tax: 0.00
+Total: 384.00

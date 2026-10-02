@@ -1,0 +1,16 @@
+INVOICE
+Vendor: Acme Office Supplies, Inc
+Invoice No: AOS-1042
+Date: 2026-09-15
+Due: 2026-10-15
+PO: PO-1001
+Currency: USD
+Bank: PK99FAKE0000009999999999
+
+Description | Qty | Unit Price | Amount
+Printer paper A4 (box) | 10 | 25.00 | 250.00
+Toner cartridge | 2 | 80.00 | 160.00
+
+Subtotal: 410.00
+Tax: 61.50
+Total: 471.50
