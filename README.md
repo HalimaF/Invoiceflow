@@ -102,3 +102,7 @@ tests/
 - [ ] Three-way matching with goods receipts and partial deliveries
 - [ ] Email ingestion and sending the drafted vendor queries
 - [ ] Payment scheduling to capture early-payment discounts
+
+## License
+
+[MIT](LICENSE)
